@@ -1,7 +1,7 @@
 ##TP3 SIR JPA_MONGO 
 
-*PERRIN Briac
-*RANNNOU Nicolas
+* PERRIN Briac
+* RANNNOU Nicolas
 
 #Quelles sont les limites d’une base données orientées document ? 
 
