@@ -1,11 +1,16 @@
+##TP3 SIR JPA_MONGO 
 
-Quelles sont les limites d’une base données orientées document ? 
+*PERRIN Briac
+*RANNNOU Nicolas
+
+#Quelles sont les limites d’une base données orientées document ? 
+
 Les bases de données orientée documents sont généralement utilisées pour traiter un gros volume de données.
 Cependant, ces bases ont des limites : 
 * Moins de fléxibilité qu'un base de données relationnelle.
 * L'intégrité des données n'est pas garantie.
 
-Quelles sont les types de données stockés dans Redis, que peut on faire comme types de requêtes ?
+#Quelles sont les types de données stockés dans Redis, que peut on faire comme types de requêtes ?
 
 (https://redis.io/commands#)
 * String
